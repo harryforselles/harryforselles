@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### I'm Harry.
+- 🔭 I’m a UI/UX designer.
+- 🌱 I’m currently studing a bachelor in Systems Development.
+  
 <!--
 **harryforselles/harryforselles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
